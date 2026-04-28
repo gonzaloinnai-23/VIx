@@ -1,5 +1,6 @@
 # VIX Trading Simulator - Vercel Ready 🚀
 
+
 Simulador de trading en tiempo real con datos auténticos del VIX e índice S&P 500. **Deployable en Vercel sin necesidad de configuración.**
 
 ## ✨ Características
